@@ -4,6 +4,9 @@ Welcome to **Men of Machine Learning (MoML)** – a program designed to transfor
 
 ---
 
+![MoML Banner](https://raw.githubusercontent.com/zulqarnainalipk/MOML/main/Additional%20Files/moml.jpg)
+
+
 ## 🎯 **What is MoML?**
 
 **Men-of-Machine-Learning (MoML)** is a 100-day program tailored to take you on a journey from the basics of coding and ML to advanced concepts. The program combines both theoretical knowledge and hands-on coding exercises to give you a comprehensive understanding of ML.
