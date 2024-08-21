@@ -164,5 +164,7 @@ Stay connected and follow me on [LinkedIn](https://www.linkedin.com/in/zulqarnai
 
 Explore the world of machine learning and set yourself on the path to becoming a tech leader! 🌐 Whether you’re a complete beginner or looking to sharpen your skills, MoML has something for everyone.
 
+## <span style="color: blue;">New lessons will be added on a continuous basis. If not daily, I will share these as soon as possible.</span>
+
 ---
 
