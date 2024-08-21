@@ -154,7 +154,7 @@ We’re building a community-driven learning platform and would love to have con
 ### ✨ How to Contribute:
 1. **Choose a Lesson:** Pick a topic from the course plan.
 2. **Create a Pull Request:** Submit your content in the specified folder format.
-3. **Follow the Guidelines:** Check out our [Contribution Guide](#) for the pull request format and other details.
+3. **Follow the Guidelines:** Check out our [Contribution Guide](https://github.com/zulqarnainalipk/MOML/blob/main/Additional%20Files/contriubte.md) for the pull request format and other details.
 
 Stay connected and follow me on [LinkedIn](https://www.linkedin.com/in/zulqarnainalipk/) for exciting updates and more content coming your way! 🙌
 
